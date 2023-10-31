@@ -1,10 +1,5 @@
-# PokeDexJS
- <style>
-  p{
-   text-align:justify;
-  }
- </style>
 
+# PokeDexJS
  <h3>PT-BR -></h3>
  <p>A PokeDexJS é uma plataforma dinâmica construída em JS/HTML/CSS, oferecendo uma experiência imersiva e informativa sobre o vasto mundo dos Pokémon. Seu design responsivo garante acessibilidade em diferentes dispositivos.</p>
 
